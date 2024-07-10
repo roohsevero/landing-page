@@ -1,1 +1,1 @@
-Projetode uma landing page realizado com o desafio #7daysOfCode 
+Projeto de uma landing page realizado com o desafio #7daysOfCode 
