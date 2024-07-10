@@ -1,0 +1,41 @@
+.depoimentos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5em 0 6em;
+}
+
+.depoimentos__titulo{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.depoimentos__texto{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--preto);
+    max-width: 70%;
+    margin: 1em 0;
+}
+
+.depoimentos__julia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5em;
+}
+
+.titulo__nome{
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--preto);
+    padding: 0.5em;
+}
+
+.texto__nome{
+    font-size:14px ;
+    font-weight: 400;
+    color: var(--cor-texto);
+}

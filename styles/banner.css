@@ -1,0 +1,25 @@
+.banner{
+    text-align: center;
+    margin: 5em;
+}
+
+.banner__nome{
+    font-family: var(--fonte-principal);
+    font-size:16px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.banner__titulo{
+    font-family: var(--fonte-principal);
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--preto);
+    padding: 0.75em;
+}
+
+.banner__texto{
+    font-family: var(--fonte-principal);
+    font-size:20px;
+    color: var(--cor-texto);
+}
